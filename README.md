@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Deep-Learning-Models-for-Binary-Image-Classification
+This project compares VGG models (1 block, 3 blocks with/without data augmentation) and transfer learning with VGG16 on a binary classification task. Training time, loss, accuracy, model parameters are evaluated. Insights on results, data augmentation, epochs, and image confusion are discussed. MLP model with comparable parameters is also analyzed.

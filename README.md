@@ -2,15 +2,6 @@ Assignment 5
 PUBLISHED
 March 26, 2023
 
-General instructions
-Feel free to use any framework of your choice: PyTorch, JAX (+Flax/Equinox), Tensorflow (+Keras)
-
-We are not providing any code template. However, it is recommended you adhere to high code quality standards.
-
-Feel free to make use of ChatGPT, CoPilot, etc. like tools. Cite where you used them. However, you should still be able to explain your code during the viva. Also, you need to be careful with the hallucinations of these tools!
-
-As before, this assignment is in a group of two students. You do not need to submit the assignment but can show your private repo to the TA during the viva.
-
 In this question, you have to compare the performance on a binary classification task of the following models:
 
 VGG (1 block)
